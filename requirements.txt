@@ -1,0 +1,6 @@
+Paste
+webapp2
+jinja2
+pymongo
+WebOb
+gunicorn
